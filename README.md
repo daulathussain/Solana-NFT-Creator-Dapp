@@ -10,11 +10,11 @@ Learn how to build and deploy a Solana NFT Creator DApp using Next.js, Phantom W
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-and-deploy-blockchain-web3-tools:-next.js-solana-binance-solidity-and-ico-marketplace)
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-and-deploy-a-solana-nft-creator-dapp-with-next.js-phantom-wallet-and-metaplex-or-solana-blockchain-dapp)
 
 #### Setup Video
 
-- [Final Code Setup video](https://youtu.be/0TwuL8V9zUE?si=UFuWkzh-DofBndjp)
+- [Final Code Setup video](https://youtu.be/jMxvW_SfVBM?si=FRs7WwYdL5-cCx1O)
 
 ```https://code.visualstudio.com/download
   WATCH: Setup & Demo Of Project
